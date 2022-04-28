@@ -1,0 +1,14 @@
+body {
+  background-color: #e1fcca;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.recipe {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.images {
+  width: 300px;
+  height: auto;
+}
